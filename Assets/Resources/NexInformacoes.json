@@ -1,0 +1,37 @@
+{
+  "informations": [
+    {
+      "codigo": "labGames",
+      "titulo": "CAA – Central de Atendimento ao Aluno",
+      "informacoes": "Espaço destinado ao atendimento dos alunos para requerimentos, consultas e serviços acadêmicos.",
+      "funcionamento": "segunda à sexta | 9h às 21:30h\nsábados | 8h às 13h",
+      "observacao": "",
+      "tel": "21 3544 1137",
+      "whatsapp": "21 99740 2178",
+      "email": ""
+    },
+
+    {
+      "codigo": "labGames",
+      "titulo": "BIBLIOTECA",
+      "informacoes": "Espaço para locação de livros, consultas e salas de estudo.",
+      "funcionamento": "segunda à sexta | 8h às 21:20h\nsábados | 9h às 13h*",
+      "observacao": "*exceto no campus Botafogo que não realiza atendimento aos sábados.",
+      "tel": "",
+      "whatsapp": "",
+      "email": "biblioteca@ibmr.br"
+    },
+
+    {
+      "codigo": "labGames",
+      "titulo": "CAA – Central de Atendimento ao Aluno",
+      "informacoes": "Espaço destinado ao atendimento dos alunos para requerimentos, consultas e serviços acadêmicos.",
+      "funcionamento": "segunda à sexta | 9h às 21:30h\nsábados | 8h às 13h",
+      "observacao": "",
+      "tel": "21 3544 1137",
+      "whatsapp": "21 99740 2178",
+      "email": ""
+    }
+
+  ]
+}

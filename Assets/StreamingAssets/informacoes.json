@@ -1,0 +1,92 @@
+{
+    "informations": [
+      {
+        "codigo": "labGames",
+        "titulo": "Laboratório de Games",
+        "comoChegarImg": "LabGames",
+        "comoChegarTxt": "LabGames",
+        "oQueFazer": "faz jogo e joga jogo",
+        "disciplinas": [
+          "disp1",
+          "disp2",
+          "disp3"
+        ],
+        "responsaveis": [
+          "pessoa1",
+          "pessoa2",
+          "pessoa3"
+        ],
+        "contato": [
+          "cont1",
+          "cont2",
+          "cont3"
+        ]
+      },
+      {
+        "codigo": "labAudio",
+        "titulo": "Laboratório de Áudio",
+        "comoChegarImg": "LabAudio",
+        "comoChegarTxt": "LabGames",
+        "oQueFazer": "faz coisas com som",
+        "disciplinas": [
+          "disp1",
+          "disp2",
+          "disp3"
+        ],
+        "responsaveis": [
+          "pessoa1",
+          "pessoa2",
+          "pessoa3"
+        ],
+        "contato": [
+          "cont1",
+          "cont2",
+          "cont3"
+        ]
+      },
+      {
+        "codigo": "",
+        "titulo": "Laboratório 5",
+        "comoChegarImg": "no andar de cima",
+        "comoChegarTxt": "LabGames",
+        "oQueFazer": "tem computadores",
+        "disciplinas": [
+          "disp1",
+          "disp2",
+          "disp3"
+        ],
+        "responsaveis": [
+          "pessoa1",
+          "pessoa2",
+          "pessoa3"
+        ],
+        "contato": [
+          "cont1",
+          "cont2",
+          "cont3"
+        ]
+      },
+      {
+        "codigo": "",
+        "titulo": "Cozinha",
+        "comoChegarImg": "terceiro andar",
+        "comoChegarTxt": "LabGames",
+        "oQueFazer": "comidinhas",
+        "disciplinas": [
+          "disp1",
+          "disp2",
+          "disp3"
+        ],
+        "responsaveis": [
+          "pessoa1",
+          "pessoa2",
+          "pessoa3"
+        ],
+        "contato": [
+          "cont1",
+          "cont2",
+          "cont3"
+        ]
+      }
+    ]
+}

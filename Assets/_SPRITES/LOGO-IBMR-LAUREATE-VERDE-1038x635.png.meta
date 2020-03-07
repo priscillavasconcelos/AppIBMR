@@ -1,0 +1,1245 @@
+fileFormatVersion: 2
+guid: 4b3b2c97fb9262f48aeae670e5183178
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LOGO-IBMR-LAUREATE-VERDE-1038x635_0
+    21300002: LOGO-IBMR-LAUREATE-VERDE-1038x635_2
+    21300004: LOGO-IBMR-LAUREATE-VERDE-1038x635_3
+    21300006: LOGO-IBMR-LAUREATE-VERDE-1038x635_4
+    21300008: LOGO-IBMR-LAUREATE-VERDE-1038x635_5
+    21300010: LOGO-IBMR-LAUREATE-VERDE-1038x635_6
+    21300012: LOGO-IBMR-LAUREATE-VERDE-1038x635_7
+    21300014: LOGO-IBMR-LAUREATE-VERDE-1038x635_8
+    21300016: LOGO-IBMR-LAUREATE-VERDE-1038x635_9
+    21300018: LOGO-IBMR-LAUREATE-VERDE-1038x635_10
+    21300020: LOGO-IBMR-LAUREATE-VERDE-1038x635_11
+    21300022: LOGO-IBMR-LAUREATE-VERDE-1038x635_12
+    21300024: LOGO-IBMR-LAUREATE-VERDE-1038x635_13
+    21300026: LOGO-IBMR-LAUREATE-VERDE-1038x635_14
+    21300028: LOGO-IBMR-LAUREATE-VERDE-1038x635_15
+    21300030: LOGO-IBMR-LAUREATE-VERDE-1038x635_16
+    21300032: LOGO-IBMR-LAUREATE-VERDE-1038x635_17
+    21300034: LOGO-IBMR-LAUREATE-VERDE-1038x635_18
+    21300036: LOGO-IBMR-LAUREATE-VERDE-1038x635_19
+    21300038: LOGO-IBMR-LAUREATE-VERDE-1038x635_20
+    21300040: LOGO-IBMR-LAUREATE-VERDE-1038x635_21
+    21300042: LOGO-IBMR-LAUREATE-VERDE-1038x635_22
+    21300044: LOGO-IBMR-LAUREATE-VERDE-1038x635_23
+    21300046: LOGO-IBMR-LAUREATE-VERDE-1038x635_24
+    21300048: LOGO-IBMR-LAUREATE-VERDE-1038x635_25
+    21300050: LOGO-IBMR-LAUREATE-VERDE-1038x635_26
+    21300052: LOGO-IBMR-LAUREATE-VERDE-1038x635_27
+    21300054: LOGO-IBMR-LAUREATE-VERDE-1038x635_28
+    21300056: LOGO-IBMR-LAUREATE-VERDE-1038x635_29
+    21300058: LOGO-IBMR-LAUREATE-VERDE-1038x635_30
+    21300060: LOGO-IBMR-LAUREATE-VERDE-1038x635_31
+    21300062: LOGO-IBMR-LAUREATE-VERDE-1038x635_32
+    21300064: LOGO-IBMR-LAUREATE-VERDE-1038x635_33
+    21300066: LOGO-IBMR-LAUREATE-VERDE-1038x635_34
+    21300068: LOGO-IBMR-LAUREATE-VERDE-1038x635_35
+    21300070: LOGO-IBMR-LAUREATE-VERDE-1038x635_36
+    21300072: LOGO-IBMR-LAUREATE-VERDE-1038x635_37
+    21300074: LOGO-IBMR-LAUREATE-VERDE-1038x635_38
+    21300076: LOGO-IBMR-LAUREATE-VERDE-1038x635_39
+    21300078: LOGO-IBMR-LAUREATE-VERDE-1038x635_40
+    21300080: LOGO-IBMR-LAUREATE-VERDE-1038x635_41
+    21300082: LOGO-IBMR-LAUREATE-VERDE-1038x635_42
+    21300084: LOGO-IBMR-LAUREATE-VERDE-1038x635_43
+    21300086: LOGO-IBMR-LAUREATE-VERDE-1038x635_44
+    21300088: LOGO-IBMR-LAUREATE-VERDE-1038x635_45
+    21300090: LOGO-IBMR-LAUREATE-VERDE-1038x635_46
+    21300092: LOGO-IBMR-LAUREATE-VERDE-1038x635_47
+    21300094: LOGO-IBMR-LAUREATE-VERDE-1038x635_48
+    21300096: LOGO-IBMR-LAUREATE-VERDE-1038x635_49
+    21300098: LOGO-IBMR-LAUREATE-VERDE-1038x635_50
+    21300100: LOGO-IBMR-LAUREATE-VERDE-1038x635_51
+    21300102: LOGO-IBMR-LAUREATE-VERDE-1038x635_52
+    21300104: LOGO-IBMR-LAUREATE-VERDE-1038x635_53
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 381
+        width: 256
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b39fb44129694e4586d0318641c0716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 381
+        width: 4
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298bba90417cb22409693938a85aa022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 556
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d07397b9c2fe84aa2ee7a4d9630bb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 556
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f944c4df0a65e9842826d3c2397b50a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_5
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 556
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b6c3a1173e49041953620ceb8111f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 556
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215ef09be1789e348a11b69c4eb05658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_7
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 556
+        width: 145
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baef4130e28c3a4895a38e3078978c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_8
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 556
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a3a96e4bb121e45b62d5970e9c9dd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_9
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 556
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14a1f1029ba5874cac57299a3be6876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 465
+        width: 7
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5ceb2a3106c4a47873fef5fc68ca49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_11
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 465
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d35c73978d49b4d857e986c2f287d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 465
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256460e7d9ca73947b4377aaf6c618cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_13
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 465
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3554ce58ea21764b804d1b7dfb4a8a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_14
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 464
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9675f3e24798044849c84ec3946144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_15
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 465
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7366845fad0d4ab4190f45c43e6f13b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_16
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 464
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfa705dfb583c444837f6c44e6ac7cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_17
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 465
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1b9c00618ca534d97449e285b4f7c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_18
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 465
+        width: 6
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd7f47b44a1e244aa20244e39a7c425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_19
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 463
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc7f7f33e1de794f92028bdbf77828d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_20
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 465
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea0ec58fe8d7df4585517877946c16d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_21
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 464
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a745852247a224a44892519ddada24f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_22
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 465
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0b402055798b94289db9d23b1d241b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 381
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0114e9c552ac5014b8658eb5aade7b19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_24
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 381
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c44b83410214b540ac390a0d4a75bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_25
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 381
+        width: 6
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4131396abd8561b4f8a2b3090beda035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_26
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 381
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0078fe0849f383c48900e5ab88166b55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_27
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 381
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e8478c6d8aad94f9cd47167c2fbd7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_28
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 381
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7250bf775986cdc49b80825f77acd7d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_29
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 381
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f3cae50609d3a428a541e97e5dcf2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_30
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 381
+        width: 6
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3040c36cb809948924c8fc048049d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_31
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 381
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865c13619b1ed3c4ca8fa26d5daea3b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_32
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 381
+        width: 6
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e18ef29e818ffe42a6de7145b7a027a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_33
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 381
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7ee68e4b7fa0240ad6629bd6c7f7fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_34
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 381
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f25a67605e4fa4a9851b9c27781a62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_35
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 420
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ebf14268423e44c8c3b0eac27713f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 125
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e883d3fcc14168b458d3710036ffe9e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 82
+        width: 250
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37f3d24209f1549974c04a7fc40b36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_38
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 82
+        width: 328
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f240756221a30cb47ae730a223a9c881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_39
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 82
+        width: 274
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cea0b0ec7c657439acf8384c93d43d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c0141229e63b74cab9629b73258ba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5662b609a8e01eb4e8d0f9bbaa685b49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 174
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b775d3658fe1e845b016939ed5e5b31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_43
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5715b1a6e71ea3747bc7f1abb54f3a77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_44
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7812d1ed33d06e4448aa80b6752b2e9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_45
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024fc0b9857cd5741980bb6742a9a5f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b13ec8b4818d3e4d9563c4b6cd5fdd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_47
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3cab0408ef8f142ab64bb0cbf9b1f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_48
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe03664a84bf8a548a6b2eb71de4b5d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_49
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 0
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b1f9d837b8ab44c8f20adf33746e56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_50
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 0
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ae1a6a2c28da9479a3c221953b76fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_51
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 121
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93a8aa3dfb1ca74896f81db4572f9ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_52
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 0
+        width: 15
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196c85ec86579e6419cb2ef9219f04a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-IBMR-LAUREATE-VERDE-1038x635_53
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 0
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399c588f566ac8146a3306a4231e25bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c0c6f17c4bb6ec445a00fc5698be8591
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
